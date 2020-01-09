@@ -1,4 +1,4 @@
-![Trie illustration](Trie.png | width=400)
+![Trie illustration](Trie.png)
 # TrieCS
 Trie Class Library for C#. Support for word insertion and membership checking
 
