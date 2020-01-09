@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrieCS", "Trie\TrieCS.csproj", "{BBE81480-2336-4A45-B1C1-A7AA204F9F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrieTest", "TrieTest\TrieTest.csproj", "{89EC19BB-46B2-44A4-AD82-475CE2D3B3E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBE81480-2336-4A45-B1C1-A7AA204F9F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE81480-2336-4A45-B1C1-A7AA204F9F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE81480-2336-4A45-B1C1-A7AA204F9F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE81480-2336-4A45-B1C1-A7AA204F9F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EC19BB-46B2-44A4-AD82-475CE2D3B3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EC19BB-46B2-44A4-AD82-475CE2D3B3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EC19BB-46B2-44A4-AD82-475CE2D3B3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EC19BB-46B2-44A4-AD82-475CE2D3B3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15417DCB-D2B5-44FE-8E83-B6E956B01712}
+	EndGlobalSection
+EndGlobal

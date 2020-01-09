@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <Authors>Mikhail Alekseev</Authors>
+    <Description>Trie Class Library for C#. Support for word insertion and membership checking.</Description>
+  </PropertyGroup>
+
+</Project>
