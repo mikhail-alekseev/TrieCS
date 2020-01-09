@@ -19,7 +19,7 @@ namespace TrieCS
             }
         }
 
-        public Trie(string[] words)
+        public Trie(IEnumerable<string> words)
         {
             foreach (string word in words)
             {
